@@ -1,0 +1,12 @@
+C:\Users\31440\source\repos\SudokuProject\SudokuProject\bin\Debug\netcoreapp2.2\SudokuProject.deps.json
+C:\Users\31440\source\repos\SudokuProject\SudokuProject\bin\Debug\netcoreapp2.2\SudokuProject.runtimeconfig.json
+C:\Users\31440\source\repos\SudokuProject\SudokuProject\bin\Debug\netcoreapp2.2\SudokuProject.runtimeconfig.dev.json
+C:\Users\31440\source\repos\SudokuProject\SudokuProject\bin\Debug\netcoreapp2.2\SudokuProject.dll
+C:\Users\31440\source\repos\SudokuProject\SudokuProject\obj\Debug\netcoreapp2.2\SudokuProject.csproj.CoreCompileInputs.cache
+C:\Users\31440\source\repos\SudokuProject\SudokuProject\obj\Debug\netcoreapp2.2\SudokuProject.AssemblyInfoInputs.cache
+C:\Users\31440\source\repos\SudokuProject\SudokuProject\obj\Debug\netcoreapp2.2\SudokuProject.AssemblyInfo.cs
+C:\Users\31440\source\repos\SudokuProject\SudokuProject\bin\Debug\netcoreapp2.2\SudokuProject.pdb
+C:\Users\31440\source\repos\SudokuProject\SudokuProject\obj\Debug\netcoreapp2.2\SudokuProject.dll
+C:\Users\31440\source\repos\SudokuProject\SudokuProject\obj\Debug\netcoreapp2.2\SudokuProject.pdb
+C:\Users\31440\source\repos\SudokuProject\SudokuProject\bin\Debug\netcoreapp2.2\input_sudoku[1].txt
+C:\Users\31440\source\repos\SudokuProject\SudokuProject\bin\Debug\netcoreapp2.2\error-duplicate-numbers.txt
