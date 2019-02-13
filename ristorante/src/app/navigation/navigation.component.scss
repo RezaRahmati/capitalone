@@ -1,0 +1,15 @@
+@import '../../variables';
+
+nav {
+  padding-left: $pagePadding;
+
+  .logo {
+    color: #CE665E;
+  }
+
+  a {
+    i {
+      margin-right: 0.5rem;
+    }
+  }
+}

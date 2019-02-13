@@ -1,0 +1,9 @@
+@import '../../variables';
+
+.content {
+  padding: 4rem $pagePadding;
+
+  app-content-item {
+    border-bottom: 1px solid #eee;
+  }
+}

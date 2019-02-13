@@ -1,0 +1,61 @@
+@import '../../variables';
+
+footer {
+  margin: 0 $pagePadding;
+  padding: 3rem 5rem;
+}
+
+a {
+  color: $linkColor;
+}
+
+.links {
+  ul {
+    padding: 0;
+
+    li {
+      list-style: none;
+
+
+    }
+  }
+}
+
+.icon-link {
+
+  background-color: #fff;
+  margin: 0px 3px;
+  height: 33px;
+  width: 34px;
+  display: inline-block;
+  border-radius: 5px;
+
+  i {
+    margin-top: -4px;
+    font-size: 40px;
+  }
+}
+
+.google {
+  color: #DF4931;
+}
+
+.facebook {
+  color: #39589A;
+}
+
+.linkedin {
+  color: #007AB9;
+}
+
+.twitter {
+  color: #50AAF1;
+}
+
+.youtube {
+  color: #FF452A;
+}
+
+.mail {
+  color: #3A7DB9;
+}

@@ -1,0 +1,22 @@
+@import "../../variables";
+@import "~bootstrap/scss/bootstrap.scss";
+$headerBgColor : lighten($primary, 30%);
+
+header {
+  background-color: $headerBgColor;
+  padding: 5rem $pagePadding;
+  color: $white;
+
+}
+
+@include media-breakpoint-up(xs) {
+  .header-body {
+    width: 100%;
+  }
+}
+
+@include media-breakpoint-up(lg) {
+  .header-body {
+    width: 40%;
+  }
+}
